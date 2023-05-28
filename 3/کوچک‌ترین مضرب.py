@@ -7,3 +7,5 @@ while True:
     if 0 <= y % p <= p / 2:
         print(y)
         break
+
+
