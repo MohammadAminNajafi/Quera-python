@@ -27,3 +27,8 @@
 # y = 2.0
 # result = math.ceil(y)
 # print(result)  # Output: 2
+
+
+
+# variable = 5
+# print(f"{variable=}")
